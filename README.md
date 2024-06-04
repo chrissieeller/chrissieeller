@@ -22,8 +22,8 @@ Tenho interesse na área de Ciência e Análise de Dados.
 
 # GitHub Stats
 
-<div>
+
 <a href="https://github.com/chrissieeller">
 <img height="120em" width="500em" src="https://github-readme-stats.vercel.app/api?username=chrissieeller&theme=dracula&show_icons=true"/>
 <img height="120em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissieeller&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
